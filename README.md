@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/212649737?v=4" style="height: 100px; width: 100px;"/>
 
 # Hey, I'm Absolutegoat
-You can call me Goat for short. I'm a .NET developer and full-stack developer.
+You can call me Goat for short. I'm a .NET developer and full-stack developer, i sometimes code malware for fun; i really like how systems interact with dangerous code.
 
 ## 🛠️ Tech Stack
 - **Languages:** C#, Python, Java (sometimes), HTML, CSS, Javascript (a tiny bit i know of javascript), batch, C, Assembly (i dont code in it its for reverse engineering i dont know how i can read it but its impressive to know it)
