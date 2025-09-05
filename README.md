@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/212649737?v=4" style="height: 100px; width: 100px;"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FPnuoQnKXre4AAAAC%2Fralsei-waving.gif&f=1&nofb=1&ipt=4e9ea73ad1b4187b25454c25af22f23db2ddfca8b7aaee11957de0ef7ea3320d" style="height: 100px; width: 70px;"/>
 
 # Hey, I'm Absolutegoat
 You can call me Goat for short. I'm a .NET developer and full-stack developer, i sometimes code malware for fun; i really like how systems interact with dangerous code.
