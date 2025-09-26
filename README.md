@@ -17,3 +17,5 @@ Pretty self explanatory</br>
 
 ## 📊 GitHub Stats
 ![Absolutegoat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=absolutegoat&show_icons=true&theme=dark)
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absolutegoaat&size_weight=0.5&count_weight=0.5&theme=dark&layout=pie)
