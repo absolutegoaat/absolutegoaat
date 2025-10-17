@@ -12,13 +12,17 @@ Malware Developer, Exploit Developer, Software Engineer.
 **Languages:**  
 C#, Python, Java (sometimes), HTML, CSS, JavaScript (a tiny bit), Batch, C, and Assembly (for reverse engineering and system analysis)  
 
+[![Tech Badges](https://skillicons.dev/icons?i=py,cs,c,java,html,css,js,windows)](https://github.com/absolutegoaat)
+
 **Databases:**  
 SQLite, MySQL  
 
-**Frameworks:**  
-.NET, Flask  
+[![Database Badges](https://skillicons.dev/icons?i=mysql,sqlite)](https://github.com/absolutegoaat)
 
-[![Tech Badges](https://skillicons.dev/icons?i=py,java,dotnet,cs,sqlite,mysql,flask,c)](https://skillicons.dev)
+**Frameworks:**  
+.NET, Flask
+
+[![Framework Badges](https://skillicons.dev/icons?i=dotnet,flask)](https://github.com/absolutegoaat)
 
 ## 💻 IDEs  
 Pretty self-explanatory 
@@ -28,6 +32,7 @@ Pretty self-explanatory
 
 ## 📊 GitHub Stats  
 ![Absolutegoat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=absolutegoat&show_icons=true&theme=dark)  
+</br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absolutegoaat&size_weight=0.5&count_weight=0.5&theme=dark&layout=pie)
 
 ## 🧠 About Me  
