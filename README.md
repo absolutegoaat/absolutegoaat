@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Absolutegoat  
 You can call me **Goat** for short.  
-I'm a **.NET** and **full-stack developer**.
+I'm a **.NET**, **full-stack developer** and **API developer**.
 </br>
 Malware Developer, Exploit Developer, Software Engineer.
 
