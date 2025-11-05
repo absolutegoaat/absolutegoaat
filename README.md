@@ -33,7 +33,7 @@ Pretty self-explanatory
 ## 📊 GitHub Stats  
 ![Absolutegoat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=absolutegoat&show_icons=true&theme=dark)  
 </br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absolutegoaat&size_weight=0.5&count_weight=0.5&theme=dark&layout=donut-vertical&lang_count=15)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absolutegoaat&size_weight=0.5&count_weight=0.5&theme=dark&layout=donut&langs_count=15)
 
 ## 🧠 About Me  
 🧩 Curious about how systems behave under the hood  
