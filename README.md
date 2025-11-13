@@ -44,5 +44,7 @@ Pretty self-explanatory
 Based out of the United States.
 </br>
 All Software made with care and love, by a 🐐.
+</br>
+Better readme here: https://absolutegoaat.github.io/portfolio-absolutegoaat/
 
 </div>
