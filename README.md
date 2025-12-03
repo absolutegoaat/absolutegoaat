@@ -10,9 +10,9 @@ Malware Developer, Exploit Developer, Software Engineer.
 
 ## 🛠️ Tech Stack  
 **Languages:**  
-C#, Python, Java (sometimes), HTML, CSS, JavaScript, Batch, C, and Assembly (for reverse engineering and system analysis), React  
+C#, Python, Java (sometimes), HTML, CSS, JavaScript, Batch, C, and Assembly (for reverse engineering and system analysis) 
 
-[![Tech Badges](https://skillicons.dev/icons?i=py,cs,c,java,html,css,js,windows,react)](https://github.com/absolutegoaat)
+[![Tech Badges](https://skillicons.dev/icons?i=py,cs,c,java,html,css,js,windows)](https://github.com/absolutegoaat)
 
 **Databases:**  
 SQLite, MySQL  
@@ -20,9 +20,9 @@ SQLite, MySQL
 [![Database Badges](https://skillicons.dev/icons?i=mysql,sqlite)](https://github.com/absolutegoaat)
 
 **Frameworks:**  
-.NET, Flask
+.NET, Flask, React, Ext JS
 
-[![Framework Badges](https://skillicons.dev/icons?i=dotnet,flask)](https://github.com/absolutegoaat)
+[![Framework Badges](https://skillicons.dev/icons?i=dotnet,flask,react,js)](https://github.com/absolutegoaat)
 
 ## 💻 IDEs  
 Pretty self-explanatory 
