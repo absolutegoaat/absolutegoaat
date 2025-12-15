@@ -45,6 +45,6 @@ Based out of the United States.
 </br>
 All Software made with care and love, by a 🐐.
 </br>
-Better readme here: https://absolutegoaat.github.io/portfolio-absolutegoaat/
+Better readme here: https://absolutegoat-aboutme.vercel.app/
 
 </div>
