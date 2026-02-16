@@ -12,7 +12,7 @@ Malware Developer, Exploit Developer, Software Engineer.
 **Languages:**  
 C#, Python, HTML, CSS, JavaScript, Batch, C++, and Assembly (for reverse engineering and system analysis), React 
 
-[![Tech Badges](https://skillicons.dev/icons?i=py,cs,cpp,html,css,js,windows,react)](https://github.com/absolutegoaat)
+[![Tech Badges](https://skillicons.dev/icons?i=py,cs,cpp,c,html,css,js,windows,react)](https://github.com/absolutegoaat)
 
 **Databases:**  
 SQLite, MySQL  
