@@ -6,9 +6,9 @@ You can call me **Goat** for short.
 
 ## Tech Stack  
 **Languages:**  
-C#, Python, HTML, CSS, JavaScript, Batch, C/C++, and Assembly (for reverse engineering and system analysis), React 
+C#, Python, HTML, CSS, JavaScript, Batch, C/C++, and Assembly (for reverse engineering and system analysis)
 
-[![Tech Badges](https://skillicons.dev/icons?i=py,cs,cpp,c,html,css,js,windows,react)](https://github.com/absolutegoaat)
+[![Tech Badges](https://skillicons.dev/icons?i=py,cs,cpp,c,html,css,js,windows)](https://github.com/absolutegoaat)
 
 **Databases:**  
 SQLite, MySQL  
